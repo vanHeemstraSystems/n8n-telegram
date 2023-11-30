@@ -113,4 +113,8 @@ In JSON, this workflow is defined as follows:
 
 Once executed (either manually or as scheduled at 18:00 each day), you should see a message like below in your Telegram app (provided your are wvanheemstra@icloud.com):
 
+![Telegram_Random_Cocktail_Message](https://github.com/vanHeemstraSystems/n8n-telegram/assets/1499433/53f92a76-87ee-4583-bb52-73ac3cca7e53)
+
+Telegram - Random Cocktail Message
+
 

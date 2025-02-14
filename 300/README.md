@@ -1,5 +1,7 @@
 # 300 - Building Our Application
 
+## 100 - Create a N8N Workflow
+
 Follow the instructions in the book.
 
 TO DO: Write the instructions here, instead.
@@ -117,4 +119,6 @@ Once executed (either manually or as scheduled at 18:00 each day), you should se
 
 Telegram - Random Cocktail Message
 
+## 200 - Create an Artificial Intelligence Agent
 
+See [README.md](./200/README.md)
